@@ -6,7 +6,7 @@
 In recent years, Convolutional Networks enabled groundbreaking breakthroughs in large-scale computer vision tasks. Various models that exhibit state-of-the-art performance were introduced. This paper mainly focuses on how each ConvNet architecture’s depth affects overall performance.
 
 <p align="center">
-<img src="figure/table.png" height="300">
+<img src="figure/table.png" height="500">
 </p>
 
 ### 2. ConvNet Configurations
